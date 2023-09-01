@@ -1,7 +1,7 @@
 # Daniel Baig
-![age](https://img.shields.io/badge/age-20-cyan)
+![age](https://img.shields.io/badge/age-21-cyan)
 
-#### Third-year student at UCL on MSci Theoretical Physics
+#### Fourth-year student at UCL on MSci Theoretical Physics
 I am interested in many aspects of theoretical physics and enjoy using simulations to understand the mathematics that describes the world around us.
 
 
@@ -17,4 +17,4 @@ I am interested in many aspects of theoretical physics and enjoy using simulatio
 ![VS](https://img.shields.io/badge/Visual_Studio-white?logo=visual%20studio&logoColor=%239061c9)
 ![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=%233faa27)
 
-Last updated: 12/08/2023
+Last updated: 01/09/2023
