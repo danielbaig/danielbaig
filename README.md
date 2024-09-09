@@ -14,7 +14,7 @@ I am interested in many aspects of theoretical physics and enjoy using simulatio
 
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%234f4f4f?logo=jupyter)
-![VS](https://img.shields.io/badge/Visual_Studio-white?logo=visual%20studio&logoColor=%239061c9)
+![VS](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=%233faa27)
 
 Last updated: 09/09/2024
