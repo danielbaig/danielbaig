@@ -1,7 +1,7 @@
 # Daniel Baig
 ![age](https://img.shields.io/badge/age-23-cyan)
 
-#### Student at the University of Cambridge on MASt Theoretical Physics
+#### PhD Student at the University of Southampton
 I am interested in many aspects of theoretical physics and enjoy using simulations to understand the mathematics underlying various physical phenomena.
 
 
