@@ -1,5 +1,5 @@
 # Daniel Baig
-![age](https://img.shields.io/badge/age-22-cyan)
+![age](https://img.shields.io/badge/age-23-cyan)
 
 #### Student at the University of Cambridge on MASt Theoretical Physics
 I am interested in many aspects of theoretical physics and enjoy using simulations to understand the mathematics underlying various physical phenomena.
@@ -17,4 +17,4 @@ I am interested in many aspects of theoretical physics and enjoy using simulatio
 ![VS](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=%233faa27)
 
-Last updated: 09/09/2024
+Last updated: 11/09/2025
